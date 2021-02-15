@@ -7,7 +7,9 @@ Contrary to many other areas of data science, the development of effective machi
 recent years, mainly because of the complex, hierarchical, sequential and multimodal nature of the data involved. In this paper we introduce the notion of streaming tree as a fairly generic data structure that encompasses a large portion of realworld data encountered in cyber-security. In particular, starting from host-based event logs we represent computer processes as streaming trees that evolve in continuous time. Leveraging the properties of the signature kernel, a machine learning tool that recently emerged as leading technology for learning with complex sequences of data, we develop the SK-Tree algorithm. SK-Tree is a supervised learning method for systematic malware detection on streaming trees that is robust to irregular sampling and high dimensionality of the underlying streams. We demonstrate the effectiveness of SK-Tree to detect malicious events on a portion of the DARPA OpTC dataset, achieving a AUROC score of 98%.
 
 
-![plot](./pictures/trees_plot.pdf)
+<p align="center">
+    <img class="center" src="./pictures/trees_plot.jpg" width="800"/>
+</p>
 
 
 ## Code
