@@ -15,31 +15,28 @@ recent years, mainly because of the complex, hierarchical, sequential and multim
 ## Code
 
 ### Setup the Environment
-To setup the environment, install the requirements with
+To setup the environment, install sigkernel with
+
++ `pip install git+https://github.com/crispitagorico/sigkernel.git`
+
+and the requirements with
 
 + `pip install -r requirements.txt`
 
+Requires PyTorch >=1.6.0.
+
 -----
 
-### Build CPU PDE solver (Cython)
-Navigate into `src/` and run
-
-+ `python setup.py build_ext --inplace`
-
 ### Run Experiments
-The classification on the OpTC dataset can be found in `malware_detection_streaming_trees.ipynb`. 
+The classification on the OpTC dataset can be reproduced running the jupyter notebook `SK_Tree_demo.ipynb`. 
 
 ## Citation
 
-<!-- 
-
 ```bibtex
-@article{cass2020computing,
-  title={The Signature Kernel is the solution of a Goursat PDE},
-  author={Salvi, Cristopher and Cass, Thomas and Lyons, Terry and Yang, Weixin},
-  journal={arXiv preprint arXiv:2006.14794},
-  year={2020}
+@article{cochrane2021sk,
+  title={SK-Tree: a systematic malware detection algorithmon streaming trees via the signature kernel},
+  author={Cochrane, Thomas and Foster, Peter and Chhabra, Varun and Lemercier, Maud and Salvi, Cristopher and Lyons, Terry},
+  journal={arXiv preprint arXiv:2102.07904},
+  year={2021}
 }
 ```
-
--->

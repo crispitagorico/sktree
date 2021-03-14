@@ -7,3 +7,10 @@
 /__pycache__
 /data/mmd_201.obj
 /data/TracerX
+/src/__pycache__
+/pictures/TracerX
+/notebooks/__pycache__
+/notebooks/.ipynb_checkpoints
+/notebooks/anomaly_detection_simulated_trees.ipynb
+/notebooks/cancer_prediction_TracerX.ipynb
+/notebooks/tree_tools.py

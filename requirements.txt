@@ -1,14 +1,5 @@
-Cython
-esig==0.7.3
-fbm==0.3.0
-iisignature==0.24
 joblib 
-matplotlib 
-numba==0.50.1
-numpy==1.19.5
 scikit-learn
-scipy
-seaborn==0.10.1
-# torch==1.6.0
+torch==1.6.0
 tqdm
 tslearn
