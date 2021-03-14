@@ -8,7 +8,7 @@ recent years, mainly because of the complex, hierarchical, sequential and multim
 
 
 <p align="center">
-    <img class="center" src="./pictures/trees_pic.jpg" width="800"/>
+    <img class="center" src="./pictures/trees_pic.pdf" width="800"/>
 </p>
 
 
@@ -34,7 +34,7 @@ The classification on the OpTC dataset can be reproduced running the jupyter not
 
 ```bibtex
 @article{cochrane2021sk,
-  title={SK-Tree: a systematic malware detection algorithmon streaming trees via the signature kernel},
+  title={SK-Tree: a systematic malware detection algorithm on streaming trees via the signature kernel},
   author={Cochrane, Thomas and Foster, Peter and Chhabra, Varun and Lemercier, Maud and Salvi, Cristopher and Lyons, Terry},
   journal={arXiv preprint arXiv:2102.07904},
   year={2021}
