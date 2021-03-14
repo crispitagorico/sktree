@@ -1,5 +1,5 @@
 # SK-Tree
-Code for "SK-Tree: a systematic malware detection algorithmon streaming trees via the signature kernel"
+Code for "SK-Tree: a systematic malware detection algorithm on streaming trees via the signature kernel"
 
 ## Overview
 
