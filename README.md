@@ -8,7 +8,7 @@ recent years, mainly because of the complex, hierarchical, sequential and multim
 
 
 <p align="center">
-    <img class="center" src="./pictures/trees_pic.pdf" width="800"/>
+    <img class="center" src="./pictures/trees_pic.jpg" width="800"/>
 </p>
 
 
